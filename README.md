@@ -13,14 +13,14 @@ I'm a **Full-stack JavaScript Developer** student from **Spain**.
 ---
 #### Comandos de consola aprendidos:
 
-| COMANDO | DESCRIPCIÓN |
-| ------- | ----------- |
-| `ls` | *List directory contents*: Lista los archivos de la carpeta actual, o de la ruta dada. |
-| `cd` | *Change current directory*: Nos permite navegar entre carpetas. |
-| `pwd` | *Print current working directory*: Nos muestra la ruta absoluta del directorio actual. |
-| `mkdir` | *Make directory*: Crea una nueva carpeta dado un nombre para esa carpeta. |
-| `cp -r` | *Copy*: Nos permite copiar una carpeta dada una ruta inicial y una ruta final. |
-| `rm -r` | *Remove*: Nos permite eliminar una carpeta dada una ruta. |
+| COMANDO | DESCRIPCIÓN                                                                            |
+| ------- | -------------------------------------------------------------------------------------- |
+| `ls`    | *List directory contents*: Lista los archivos de la carpeta actual, o de la ruta dada. |
+| `cd`    | *Change current directory*: Nos permite navegar entre carpetas.                        |
+| `pwd`   | *Print current working directory*: Nos muestra la ruta absoluta del directorio actual. |
+| `mkdir` | *Make directory*: Crea una nueva carpeta dado un nombre para esa carpeta.              |
+| `cp -r` | *Copy*: Nos permite copiar una carpeta dada una ruta inicial y una ruta final.         |
+| `rm -r` | *Remove*: Nos permite eliminar una carpeta dada una ruta.                              |
 
 ---
 
